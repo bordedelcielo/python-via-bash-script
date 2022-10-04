@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Would you like to play a game? y/n"
+echo "Would you like to play a game of rock, paper scissors? y/n"
 read selection
 if [ $selection == 'y' ]
 then
